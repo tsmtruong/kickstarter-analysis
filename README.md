@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Analysis on kickstarter data to discover trends/success rate of prdoductions done by Louise
+This is an analysis on kickstarter data to discover trends and success rates of productions done by Louise to determines the best time to start a kickstarter, and the kickstarter with the highest chances of success.
 
  [Louise Kickstarter](https://github.com/tsmtruong/kickstarter-analysis/blob/main/Louise%20Kickstarter.xlsx)
  
